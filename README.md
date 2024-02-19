@@ -5,9 +5,9 @@ Welcome to the Online Clothes Shopping App! This mobile application is built usi
 ## Quick Preview
 
 <p align="center">
-  <img src="https://github.com/youssifsamir/Clothes-ShoppingApp/assets/113045942/93f66f79-17c3-4df0-a83a-498a0afab830" width="285" height="575" />
-  <img src="https://github.com/youssifsamir/Clothes-ShoppingApp/assets/113045942/4e3f905d-444c-4c8d-bc79-1d3e964bc575" width="285" height="575" />
-  <img src="https://github.com/youssifsamir/Clothes-ShoppingApp/assets/113045942/fee8198b-15df-4280-9c2e-cfb5d1ce07e5" width="285" height="575" />
+  <img src="https://github.com/youssifsamir/Clothes-ShoppingApp/assets/113045942/93f66f79-17c3-4df0-a83a-498a0afab830" width="265" height="550" />
+  <img src="https://github.com/youssifsamir/Clothes-ShoppingApp/assets/113045942/4e3f905d-444c-4c8d-bc79-1d3e964bc575" width="265" height="550" />
+  <img src="https://github.com/youssifsamir/Clothes-ShoppingApp/assets/113045942/fee8198b-15df-4280-9c2e-cfb5d1ce07e5" width="265" height="550" />
 </p>
 
 ## Features
