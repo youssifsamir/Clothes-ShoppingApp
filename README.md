@@ -13,10 +13,15 @@ Welcome to the Online Clothes Shopping App! This mobile application is built usi
 ## Features
 
 - **Smooth Usability:** Experience seamless interactions and fluid transitions throughout the app.
+  
 - **Clean UI/UX:** Enjoy a visually appealing interface designed for easly navigation and intuitive use.
+  
 - **Clothes Browsing**: Browse through a wide range of clothes available. View rich selection including colores, size, and quantity.
+  
 - **Favorites Management**: Users can view and manage their favorites clothes products.
+  
 - **Cart System**: Seamless cart checkout process allowing users to select and proceed duration, pick-up/delivery options, and make payments securely.
+  
 - **Notifications**: In-app notifications for cart adding.
 
 
