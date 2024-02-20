@@ -2,7 +2,7 @@
 
 Welcome to the Online Clothes Shopping App! This mobile application is built using Flutter and Dart, providing a smooth user experience and clean UI/UX design. Designed to facilitate online clothes shopping for clothes lovers.
 
-## Quick Preview
+## 🔥 Quick Preview
 
 <p align="center">
   <img src="https://github.com/youssifsamir/Clothes-ShoppingApp/assets/113045942/93f66f79-17c3-4df0-a83a-498a0afab830" width="265" height="550" />
